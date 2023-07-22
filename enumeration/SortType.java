@@ -1,0 +1,5 @@
+package com.iskool.enumeration;
+
+public enum SortType {
+	STUDENT_NAME_ASC_ORDER,REG_NO_ASC_ORDER,MALE_TO_FEMALE_ASC,FEMALE_TO_MALE_ASC,REGISTRATION_NO_ASC,RANDOM
+}
